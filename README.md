@@ -176,4 +176,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Built by **Aayush (Neyash)** — 2024
+Built by **Aayush (Neyash)** — 2026
