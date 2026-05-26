@@ -1,0 +1,58 @@
+# ─── Compiled output ───────────────────────────────────────────────────────────
+out/
+bin/
+build/
+*.class
+
+# ─── JAR files ─────────────────────────────────────────────────────────────────
+*.jar
+*.war
+*.ear
+
+# ─── IDE — IntelliJ IDEA ───────────────────────────────────────────────────────
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ─── IDE — Eclipse ─────────────────────────────────────────────────────────────
+.classpath
+.project
+.settings/
+.factorypath
+
+# ─── IDE — VS Code ─────────────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+
+# ─── IDE — NetBeans ────────────────────────────────────────────────────────────
+nbproject/
+nbbuild/
+nbdist/
+nb-configuration.xml
+
+# ─── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ─── Windows ───────────────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ─── Logs and temp files ───────────────────────────────────────────────────────
+*.log
+*.tmp
+*.temp
+sp_*.ps1
+studypulse_sound_*.ps1
+
+# ─── User-specific config (contains local paths, not portable) ─────────────────
+# Keep resources/config.properties tracked so defaults ship with the repo,
+# but ignore any local overrides if you add them separately.
+# resources/config.properties
+
+# ─── Test output ───────────────────────────────────────────────────────────────
+TestSound.class

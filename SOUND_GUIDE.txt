@@ -1,0 +1,58 @@
+===========================================
+HOW TO ADD CUSTOM SOUND TO STUDY PULSE
+===========================================
+
+OPTION 1: Use System Beep (Default - No setup needed)
+------------------------------------------------------
+The app will use your computer's default beep sound.
+Works on all systems immediately.
+
+OPTION 2: Add Custom Sound File (Recommended)
+------------------------------------------------------
+1. Download any short .WAV sound file (1-3 seconds)
+   - Good sources: freesound.org, pixabay.com
+   - Search for: "notification bell", "chime", "ding"
+
+2. Save the file anywhere on your computer
+   - Example: C:\Users\YourName\Downloads\bell.wav
+   - Or: /home/username/Music/notification.wav
+
+3. In StudyPulse app:
+   - Go to Settings → Sound Settings
+   - Click "Change Sound File"
+   - Navigate to your sound file
+   - Select it and click "Open"
+   - Click "Test Sound" to verify
+
+4. That's it! Your sound is saved.
+
+OPTION 3: Place Sound in Resources Folder (Auto-load)
+------------------------------------------------------
+1. Create folder: resources/sounds/
+2. Place file named: bell.wav
+3. Restart the app
+
+TROUBLESHOOTING:
+----------------
+Q: No sound playing?
+A: Check system volume and speaker settings
+
+Q: Custom sound not working?
+A: Make sure file is .WAV format (most compatible)
+   Try converting MP3 to WAV using online converter
+
+Q: Sound plays but too loud/quiet?
+A: Adjust system volume or choose different sound file
+
+SUPPORTED FORMATS:
+------------------
+✓ .WAV (best compatibility)
+✓ .AU
+⚠️ .MP3 (may not work on all systems)
+
+RECOMMENDED SOUNDS:
+-------------------
+- Soft bell: notification.wav
+- Gentle chime: chime.wav  
+- Minimal beep: beep.wav
+- Nature sound: pop.wav
